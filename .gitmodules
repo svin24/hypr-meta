@@ -13,3 +13,18 @@
 [submodule "hyprpicker"]
 	path = hyprpicker
 	url = https://github.com/hyprwm/hyprpicker
+[submodule "hyprutils"]
+	path = hyprutils
+	url = https://github.com/hyprwm/hyprutils
+[submodule "xdg-desktop-portal-hyprland"]
+	path = xdg-desktop-portal-hyprland
+	url = https://github.com/hyprwm/xdg-desktop-portal-hyprland
+[submodule "hyprwayland-scanner"]
+	path = hyprwayland-scanner
+	url = https://github.com/hyprwm/hyprwayland-scanner
+[submodule "hyprlang"]
+	path = hyprlang
+	url = https://github.com/hyprwm/hyprlang
+[submodule "hyprland-protocols"]
+	path = hyprland-protocols
+	url = https://github.com/hyprwm/hyprland-protocols
