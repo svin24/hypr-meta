@@ -4,3 +4,12 @@
 [submodule "hypridle"]
 	path = hypridle
 	url = https://github.com/hyprwm/hypridle
+[submodule "aquamarine"]
+	path = aquamarine
+	url = https://github.com/hyprwm/aquamarine
+[submodule "hyprpaper"]
+	path = hyprpaper
+	url = https://github.com/hyprwm/hyprpaper
+[submodule "hyprpicker"]
+	path = hyprpicker
+	url = https://github.com/hyprwm/hyprpicker
