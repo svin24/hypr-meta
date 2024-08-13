@@ -1,0 +1,6 @@
+[submodule "Hyprland"]
+	path = Hyprland
+	url = https://github.com/hyprwm/Hyprland
+[submodule "hypridle"]
+	path = hypridle
+	url = https://github.com/hyprwm/hypridle
