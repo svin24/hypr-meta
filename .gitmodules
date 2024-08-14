@@ -28,3 +28,6 @@
 [submodule "hyprland-protocols"]
 	path = hyprland-protocols
 	url = https://github.com/hyprwm/hyprland-protocols
+[submodule "hyprlock"]
+	path = hyprlock
+	url = https://github.com/hyprwm/hyprlock
